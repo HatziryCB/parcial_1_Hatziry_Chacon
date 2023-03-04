@@ -9,7 +9,7 @@
 </head>
 <body>
 @section('sidebar')
-    Texto quien sabe donde
+    Texto de ejemplo
 @show
 <div class="container">
     @yield('content')
